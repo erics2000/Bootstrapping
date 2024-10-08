@@ -43,4 +43,4 @@ Key findings include:
 - Model Performance: The model with interaction between education and years of experience had the highest adjusted R² value (~0.18), but still did not explain much of the variance in salary.
 
 ## License
-
+This project is licensed under the [MIT License](./LICENSE). See the [LICENSE](./LICENSE) file for more details.
